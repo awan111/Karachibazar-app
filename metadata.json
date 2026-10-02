@@ -1,0 +1,6 @@
+{
+  "name": "Karachi Bazar - Trust & Moderation Hub",
+  "description": "Karachi Mandi verified peer-to-peer marketplace & trust moderation engine with advance scam alerts, Excise Sindh database sync, and CPLC blacklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
